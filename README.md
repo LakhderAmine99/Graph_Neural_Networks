@@ -2,7 +2,6 @@
 
 This repository contains an introduction to Graph Neural Networks (GNNs) and a simple implementation of a GNN for node classification on the Cora dataset. The code is based on the PyTorch Geometric (PyG) library.
 
-
 ## Requirements
 
 - PyTorch 1.4.0
@@ -13,7 +12,7 @@ This repository contains an introduction to Graph Neural Networks (GNNs) and a s
 
 ## Authors
 
-- [**Lakhder Amine**]() - [**Github**](https://github.com/LakhderAmine99) - [**LinkedIn**](https://www.linkedin.com/in/amine-lakhder-21a182192/)
+- [**Lakhder Amine**](https://github.com/LakhderAmine99) - [**Github**](https://github.com/LakhderAmine99) - [**LinkedIn**](https://www.linkedin.com/in/amine-lakhder-21a182192/)
 
 ## License
 
