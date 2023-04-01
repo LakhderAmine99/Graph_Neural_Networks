@@ -1,4 +1,4 @@
-# Cora_Citation_NodeClassification_using_GNN
+# Graph Neural Networks
 
 This repository contains an introduction to Graph Neural Networks (GNNs) and a simple implementation of a GNN for node classification on the Cora dataset. The code is based on the PyTorch Geometric (PyG) library.
 
