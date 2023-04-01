@@ -13,7 +13,7 @@ This repository contains an introduction to Graph Neural Networks (GNNs) and a s
 
 ## Authors
 
-- [**Lakhder Amine**]() - [**Github**](LakhderAmine99) - [**LinkedIn**](https://www.linkedin.com/in/lakhder-amine-9b8b5a1a1/)
+- [**Lakhder Amine**]() - [**Github**](LakhderAmine99) - [**LinkedIn**](https://www.linkedin.com/in/amine-lakhder-21a182192/)
 
 ## License
 
