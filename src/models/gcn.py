@@ -39,7 +39,6 @@ class ProtGCN(torch.nn.Module):
     def forward(self, x, edge_index, batch):
         
         # Node embeddings 
-        
         h = self.conv1(x, edge_index)
         h = h.relu()
         h = self.conv2(h, edge_index)
@@ -48,11 +47,9 @@ class ProtGCN(torch.nn.Module):
         
 
         # Graph-level readout
-        
         hG = global_mean_pool(h, batch)
 
         # Classifier
-        
         h = F.dropout(hG, p=0.5, training=self.training)
         h = self.linear(h)
         
